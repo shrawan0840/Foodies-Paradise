@@ -7,7 +7,7 @@ Foodies Paradise
 ![signup-1](https://github.com/shrawan0840/Foodies-Paradise/assets/87697180/3861d956-8c53-4ee4-9cb3-eb859bce6984)
 
 3. LogIn Page
-![sign up page](https://github.com/shrawan0840/Foodies-Paradise/assets/87697180/f1c97605-13fd-4eed-a419-dffe47c34d1a)
+![login](https://github.com/shrawan0840/Foodies-Paradise/assets/87697180/835fbaae-42aa-4013-a73b-7f76653cb940)
 
 4. Cart Page
 ![cart](https://github.com/shrawan0840/Foodies-Paradise/assets/87697180/d890f487-daaa-402c-b94c-a30b4eb4d292)
