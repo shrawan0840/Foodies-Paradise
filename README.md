@@ -1,4 +1,4 @@
-Foodies Paradise
+#Foodies Paradise
 
 1. Home Page
 ![image-1](https://github.com/shrawan0840/Foodies-Paradise/assets/87697180/5aecb4fb-a2d0-4a4e-a55f-dbdde5276ed4)
